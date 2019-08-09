@@ -1,6 +1,6 @@
 # Pgxreplay
 
-**TODO: Add description**
+Inspired by https://github.com/laurenz/pgreplay.
 
 ## Installation
 
